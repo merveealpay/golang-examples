@@ -1,2 +1,2 @@
-# golang-examples
-golang examples 
+# golang-simple-bank-app
+design db schema and generate sql code -> dbdiagram.io
